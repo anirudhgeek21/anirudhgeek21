@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="top" align="center">
+  <h1>### Hi there 👋<h1>
+  <h1>I am Anirudh Prajapati<h1>
+<div>
 
 <!--
 **anirudhgeek21/anirudhgeek21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
+</div>
+  
+  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anirudh-prajapati/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
